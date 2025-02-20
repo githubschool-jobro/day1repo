@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "pull request!"
+title: "Welcome to our slide deck"
 ---
 
 Caption here
