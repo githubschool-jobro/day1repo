@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hello GitHub --2
+Great GitHub session! 
 
 ![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
 {: .center}
