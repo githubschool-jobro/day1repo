@@ -44,10 +44,10 @@
 - [GitHub and Visual Studio](https://resources.github.com/webcasts/GitHub-and-Visual-Studio/)
 - [GitHub and IntelliJ IDEs](https://resources.github.com/webcasts/GitHub-and-Intellij-IDEs/)
 - [GitHub and Atom.io](https://resources.github.com/webcasts/GitHub-and-Atom/)
+- [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 - [GitHub and Xcode](https://resources.github.com/webcasts/GitHub-and-Xcode/)
 - [GitHub and Eclipse](https://resources.github.com/webcasts/GitHub-and-Eclipse/)
 - [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
-- [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
 </details>
 
@@ -58,3 +58,4 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
+- [Join the Github Pages] (https://pages.github.com/)
